@@ -1,1 +1,1 @@
-# RFM-Segmentation---Ecommerce
+# RFM-Segmentation-Ecommerce
